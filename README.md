@@ -1,11 +1,5 @@
-<h1 align="center">Hi there, I'm Gaurav 👋</h1>
+<h1 align="center">Hi , I'm Gaurav 👋</h1>
 
-<p align="center">
-MS Computer Engineering @ NYU Tandon  
-Backend • Distributed Systems • AI Systems
-</p>
-
----
 
 ## 🚀 About Me
 
