@@ -1,7 +1,16 @@
 <h1 align="left">Hi , I'm Gaurav 👋</h1>
 
+<p align="left">
 
-I'm a Master's student in **Computer Engineering at NYU** with experience building **large-scale backend systems, distributed infrastructure, and AI-powered applications**.
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
 
 I enjoy working on problems that are imaginative and blend across different domains of SWE and using LLM's to not just automate but improve existing systems.
 
@@ -9,6 +18,16 @@ I've worked on:
 - Backend platforms used by **defense & aviation organizations**
 - ML research projects on **temporal audio sentiment analysis**
 - Agentic AI systems and developer tooling
+
+<p align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ghopgaurav&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghopgaurav&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
 
 
 ## 🛠 Technologies & Skills
@@ -30,67 +49,8 @@ I've worked on:
 
 ---
 
-## 🔬 Research
 
-### Temporal Audio Sentiment Analysis
-Research project exploring **frequency domain transforms and neural models** for detecting emotional sentiment in music and audio streams.
 
-Technologies used:
-- `wav2vec 2.0`
-- `DistilBERT`
-- `LibROSA`
-- `PyTorch`
 
----
 
-## 🚀 Projects
 
-### Context-Aware Music Sentiment Mapper
-Analyzes songs using **audio embeddings and language models** to map sentiment evolution across time.
-
-Tech stack:
-`Python` `PyTorch` `Flask` `Transformers`
-
----
-
-### ClientGen (Fullstack CRM App)
-A multi-user contact management system with authentication and dashboard analytics.
-
-Tech stack:
-`React` `Node.js` `MongoDB` `JWT` `Express`
-
----
-
-### Shadow Engineer (Hackathon Project)
-AI assistant that converts **Jira tickets and documentation into developer onboarding workflows**.
-
-Tech stack:
-`LLMs` `RAG` `Vector DB` `Python`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🌎 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
