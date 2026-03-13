@@ -1,20 +1,15 @@
-<h1 align="center">Hi , I'm Gaurav 👋</h1>
+<h1 align="left">Hi , I'm Gaurav 👋</h1>
 
-
-## 🚀 About Me
 
 I'm a Master's student in **Computer Engineering at NYU** with experience building **large-scale backend systems, distributed infrastructure, and AI-powered applications**.
 
-I enjoy working on problems involving **scalable systems, data pipelines, and machine learning systems in production**.
+I enjoy working on problems that are imaginative and blend across different domains of SWE and using LLM's to not just automate but improve existing systems.
 
-Previously worked on:
+I've worked on:
 - Backend platforms used by **defense & aviation organizations**
-- AI research projects on **temporal audio sentiment analysis**
-- **Agentic AI systems and developer tooling**
+- ML research projects on **temporal audio sentiment analysis**
+- Agentic AI systems and developer tooling
 
-I’m particularly interested in **systems engineering, infrastructure, and intelligent software systems.**
-
----
 
 ## 🛠 Technologies & Skills
 
