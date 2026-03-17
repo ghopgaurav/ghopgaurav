@@ -12,7 +12,7 @@
 
 </p>
 
-I enjoy working on problems that are imaginative and blend across different domains of SWE and using LLM's to not just automate but improve existing systems.
+I enjoy working on problems that are imaginative and blend across different domains of SWE while utilizing LLM's to not just automate but improve existing systems.
 
 I've worked on:
 - Backend platforms used by **defense & aviation organizations**
